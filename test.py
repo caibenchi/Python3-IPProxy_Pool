@@ -86,6 +86,5 @@ for i in range(0,sr):
         pass
     continue
 
-# 66666
 csv_read.close()
 csv_file.close()
